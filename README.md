@@ -1,4 +1,4 @@
-## Registro pars Efectos Estadíticos
+# Registro para Efectos Estadíticos
 
 Registro para efectos estadísticos de los proyectos de proyectos de asociaciones público privadas. 
 
